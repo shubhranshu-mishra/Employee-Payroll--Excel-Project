@@ -15,9 +15,7 @@ Procedure-
 - Overtime bonus was calculated (overtime bonus = 0.5 * pay)
 - Total pay was calculated by adding weekly pay and overtime bonus
 - Monthly pay was calculated by adding the weekly total pay
-
 - For each of the above steps, maximum, minimum, average and total values were calculated
-
 
 Excel formulas used
 - IF
