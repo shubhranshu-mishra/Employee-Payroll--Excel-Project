@@ -1,6 +1,6 @@
 # Employee Payroll- Excel Project
 
-Data Source- Created by Self (Not an actial data)
+Data Source- Created by Self (Not an actual data)
 
 Given- Data was created which includes
 - Employee first name
