@@ -1,4 +1,4 @@
-# Employee Payroll- Excel Project
+# Employee Payroll (Excel Project)
 
 Data Source- Created by Self (Not an actual data)
 
